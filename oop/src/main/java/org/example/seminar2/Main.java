@@ -5,6 +5,7 @@ public class Main {
 
         Human human = new Human();
         human.name = "Vlad";
+        human.name = "Oleg";
 
         Market market = new Market();
 
