@@ -14,6 +14,7 @@ public class HotDrinks extends Drinks{
     }
 
     public Integer getTemp(){
+
         return temp;
     }
 }
